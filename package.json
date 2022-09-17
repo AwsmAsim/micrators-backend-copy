@@ -1,0 +1,14 @@
+{
+  "name": "micrators-mi-billing-app-backend",
+  "version": "1.0.0",
+  "description": "MI Billing Application Backend by MiCrators (Asim Junaid and Arman Nawaz).",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Asim Junaid",
+  "license": "ISC",
+  "dependencies": {
+  }
+}
